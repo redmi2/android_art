@@ -29,5 +29,6 @@ public class Main {
         NarrowingTest.main(null);
         FloatSelect.main(null);
         NativeProxy.main(args);
+        NativeProxy.main(null);
     }
 }
